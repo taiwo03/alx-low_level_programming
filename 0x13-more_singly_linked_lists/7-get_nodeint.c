@@ -2,9 +2,9 @@
 
 /**
  * get_nodeint_at_index - returns the node at a certain
- * index ina linked list
+ * index in a linked list
  * @head: first node in a linked list
- * @idex: index of the node to return
+ * @index: index of the node to return
  *
  * Return: pointer to the node we are looking for, or NULL
  */
