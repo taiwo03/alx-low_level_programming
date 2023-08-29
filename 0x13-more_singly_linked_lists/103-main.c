@@ -12,7 +12,7 @@ int main(void)
 {
 	listint_t *head;
 	listint_t *head2;
-	istint_t *node;
+	listint_t *node;
 
 	head2 = NULL;
 	add_nodeint(&head2, 0);
